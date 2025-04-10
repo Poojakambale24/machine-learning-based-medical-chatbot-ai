@@ -11,17 +11,14 @@ Clone the repository
 ```bash
 
 ### STEP 01- Create a conda environment after opening the repository
-
-```bash
-
 conda create -n medical-chatbot python-3.10-y
 
-```bash
 
 conda activate medical-chatbot
 
+
 ### STEP 02-install the requirements
 
-```bash
 
 pip install -r requirements.txt
+```
